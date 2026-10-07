@@ -1,0 +1,50 @@
+Reading mod 'WaterDistillery'...
+
+Reading Mods/WaterDistillery/Data/Objects/items.xml
+Reading vanilla material.xml
+Reading Mods/WaterDistillery/Data/Objects/workshops.xml
+Reading Mods/WaterDistillery/Data/Objects/constructions.xml
+Reading Mods/WaterDistillery/Data/sprites.xml
+	Loading texture: Mods/WaterDistillery/Sprites/default.png
+	Loading texture: Mods/WaterDistillery/Sprites/water-distillery.png
+Reading vanilla plant.xml
+Reading vanilla liquid.xml
+Reading vanilla storage.xml
+Reading vanilla ammo.xml
+Reading vanilla mechanism.xml
+Reading vanilla trap.xml
+Reading vanilla research.xml
+Reading vanilla blueprint.xml
+Reading vanilla skill.xml
+Reading vanilla race.xml
+Reading vanilla faction.xml
+Reading vanilla bodypart.xml
+Reading vanilla body.xml
+Reading vanilla itemsettings.xml
+Reading Mods/WaterDistillery/Data/UI/rightclickmenusettings.xml
+Reading Mods/WaterDistillery/Data/UI/stockmenusettings.xml
+Reading vanilla uniformsettings.xml
+Reading vanilla constructionsettings.xml
+Reading Mods/WaterDistillery/Data/Objects/workshopsettings.xml
+Reading vanilla prospectorsettings.xml
+Reading vanilla designationsettings.xml
+Reading vanilla charactersettings.xml
+Reading vanilla goblinsettings.xml
+Reading vanilla mantsettings.xml
+Reading vanilla golemsettings.xml
+Reading vanilla automatonsettings.xml
+Reading vanilla grasssettings.xml
+Reading vanilla bloodsettings.xml
+Reading vanilla terrainsettings.xml
+Reading Mods/WaterDistillery/Data/jobsettings.xml
+Reading vanilla newgamesettings.xml
+Reading vanilla plantsettings.xml
+Reading vanilla liquidsettings.xml
+Reading vanilla mechanismsettings.xml
+Reading vanilla language.xml
+Reading vanilla name.xml
+Reading vanilla word.xml
+Reading vanilla namerules.xml
+Reading vanilla professionmenusettings.xml
+
+...finished reading mod
